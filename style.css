@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+.gun {
+    width: 50%;
+    margin-top: 170px;
+    margin-left: 50px;
+    display: flex;
+}
+.gun1 {
+    width:25%;
+    border: 7px solid white;
+    color: white ;
+    cursor: pointer;
+}
+.i1 {
+    width: 100%;
+}
+.tt {
+    margin-left: 20px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.gun2 {
+    width: 50%;
+    margin-top: -10px;
+    margin-left: 50px;
+    display: flex;
+    cursor: pointer;
+}
+.play {
+display: flex;
+justify-content: end;
+position: absolute;
+left: 800px;
+top: 60px;
+}
